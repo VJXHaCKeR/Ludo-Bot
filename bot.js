@@ -3,7 +3,7 @@
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 
-WhatsAsena - Yusuf Usta
+WhatsAsena - It'z Me Jain VJ✌🏻
 */
 
 const fs = require("fs");
@@ -136,7 +136,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
         });
 
         console.log(
-            chalk.green.bold('Julie Mwol working! 😍')
+            chalk.green.bold('VJX BOT Working! 🤖')
         );
     });
     
@@ -248,7 +248,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~♥️🕊️______~ 𝕁𝕦𝕝𝕚𝕖𝕄𝕨𝕠𝕝 ~_____🕊️♥️~*' +
+                                await conn.sendMessage(conn.user.jid, '*~♥️🕊️______~ 𝙑𝙅𝙓 𝘽𝙊𝙏 ~_____🕊️♥️~*' +
                                     '\n\n*🧞‍♂️ ' + error + '*\n'
                                     , MessageType.text);
                             }
