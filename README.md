@@ -47,22 +47,15 @@ Project created by <a href="https://github.com/VJXHaCKeR">Ludo-Bot</a> to make i
 
 
 ##
-  <h3 align="center">📢 Support Group 1:</h3>
+  <h3 align="center">📢 Support Group :</h3>
 <p align="center">
-Click WA logo to Join Support Group 👇
+Click VJXHaCKeR logo to Join Support Group 👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/H52llvIFUGz8w6PpJ5azhc" target="blank"><img align="center" src="https://i.hizliresim.com/pce1372.png" alt="kyrie.baran" height="200" width="200" /></a>
+  <a href="https://chat.whatsapp.com/H52llvIFUGz8w6PpJ5azhc" target="blank"><img align="center" src="PicsArt_08-15-02.59.30.jpg" alt="kyrie.baran" height="200" width="200" /></a>
 </p>
 
-## 
-  <h3 align="center">📢 Support Group 2:</h3>
-<p align="center">
-Click Pikachu logo to Join Support Group 2👇
-    <br>
-<br>
-  <a href="https://chat.whatsapp.com/BLdaoLVnX6jFnkKHFjLbH6" target="blank"><img align="center" src="https://i.hizliresim.com/pce1372.png" alt="kyrie.baran" height="200" width="200" /></a>
-</p>
+##
     
 ## Setup
 <div align="center">
